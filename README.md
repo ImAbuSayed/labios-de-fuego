@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/labios-de-fuego/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Labios de fuego](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/labios-de-fuego/) |
+| **Get License** | [License this song: Labios de fuego](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/labios-de-fuego/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Tus labios de fuego me invitan a pecar
+> En la oscuridad del club, te quiero probar
+> Un juego de sombras, locura y deseo
+> Baby, tu cuerpo es el único trofeo
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
